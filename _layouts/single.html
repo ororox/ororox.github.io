@@ -71,6 +71,7 @@ layout: default
         {% include page__taxonomy.html %}
         {% include page__date.html %}
         {% include post_pagination.html %}
+        {% include GoogleAdSenseInnerWrapEnd.html %}
         {% include comments.html %}
       </footer>
     </div>
@@ -82,7 +83,7 @@ layout: default
     <div class="page__related">
       <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       <div class="grid__wrapper">
-        {% for post in site.related_posts limit:4 %}
+        {% for post in site.related_posts limit:3 %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
       </div>
@@ -92,7 +93,7 @@ layout: default
     <div class="page__related">
       <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       <div class="grid__wrapper">
-        {% for post in site.posts limit:4 %}
+        {% for post in site.posts limit:3 %}
           {% if post.id == page.id %}
             {% continue %}
           {% endif %}
