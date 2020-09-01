@@ -17,7 +17,7 @@ git config --list
 git config --global --list
 ```
 
-git config 설정
+#### git config 설정
 ```config
 git config user.name "홍길동"
 git config user.email "support@webisfree.com"
@@ -26,7 +26,7 @@ git config --global user.name "홍길동"
 git config --global user.email "support@webisfree.com"
 ```
 
-git config 삭제
+#### git config 삭제
 ```config
 git config --unset user.name
 git config --unset user.email
