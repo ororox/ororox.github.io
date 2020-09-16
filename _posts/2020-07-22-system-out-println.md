@@ -23,8 +23,8 @@ public class JavaRunner {
 
 비슷비슷해 보이지만, 약간씩 차이가 있습니다.
 
-System.out.print : 출력
-System.out.println : 출력 후 줄바꿈 (엔터키 효과, 개행문자라고도 함)
+System.out.print : 출력   
+System.out.println : 출력 후 줄바꿈 (엔터키 효과, 개행문자라고도 함)   
 System.out.printf : 폼 출력
 
 메소드(함수) 이름에서도 알 수 있듯이, print 는 단순히 출력만 담당하고, println은 하나의 line으로 출력하는 역할을 합니다. 그리고 printf는 form을 만들어서 출력할 수 있습니다.
