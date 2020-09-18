@@ -166,7 +166,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /tmp_post
+  - /_posts-temp
   - /docs # ignore Minimal Mistakes /docs
 keep_files:
   - .git
