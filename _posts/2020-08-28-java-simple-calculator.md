@@ -13,7 +13,7 @@ tags:
 소스 코드에서 1~5 번에 코멘트를 제거하고 코딩을 완성하여, 아래 콘솔과 같은 출력이 나오게 하시오.
 
 ```java
-public class JavaRunner01 {
+public class JavaRunner {
 
 	public static void main(String[] args) {
 		
