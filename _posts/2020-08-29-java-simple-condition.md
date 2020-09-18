@@ -72,5 +72,5 @@ if firstNumber > 0:
 
 ### 다른 코드
 
-출력부를 분리한 스타일의 코드는 아래의 gist 링크에 있습니다.  
+출력부를 분리한 스타일로 만든 코드는 아래 gist 링크에 있습니다.  
 [자바 연습문제 2](https://gist.github.com/ororox/e0e7695218db23e5bbc179b82718dabf)
