@@ -1,5 +1,5 @@
 ---
-title: 자바 로직 wrap-up
+title: 자바 로직, wrap-up
 categories:
 - Java Training
 tags:
