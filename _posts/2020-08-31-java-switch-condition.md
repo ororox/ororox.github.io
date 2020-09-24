@@ -1,9 +1,11 @@
 ---
 title: 자바 조건문 3, switch/case
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- switch
+- case
 ---
 
 자바에서는 여러가지 조건에 따른 분기를 위해서 switch/case를 이용한 문법이 있습니다.   

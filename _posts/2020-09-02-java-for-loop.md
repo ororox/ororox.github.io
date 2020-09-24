@@ -1,9 +1,11 @@
 ---
 title: 자바 반복문 2, for
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- loop
+- for
 ---
 
 for 반복문은 초보자가 처음에 이해하기 어렵지만, 자바에서 가장 많이 쓰이는 반복문입니다.   

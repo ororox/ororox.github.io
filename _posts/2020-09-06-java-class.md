@@ -1,9 +1,12 @@
 ---
 title: 자바 클래스, class
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- object
+- class
+- instance
 ---
 
 클래스(Class)는 자바에서 사용하는 변수와 메소드를 하나로 묶어 놓은 세트입니다.   

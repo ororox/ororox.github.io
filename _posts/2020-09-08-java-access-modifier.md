@@ -1,9 +1,12 @@
 ---
 title: 자바 접근제어자, Access Modifier
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- private
+- public
+- access modifier
 ---
 
 자바 코드 내부에 있는 **변수와 메소드**는 **기능이나 업무영역**에 따라  **클래스와 패키징**으로 적절하게 분류되어 묶여 있습니다.   

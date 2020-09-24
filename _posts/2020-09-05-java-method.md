@@ -1,9 +1,11 @@
 ---
 title: 자바 메소드, method
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- method
+- function
 ---
 
 다른 언어에서는 함수(function)이라고 부르는 것을 자바에서는 메소드(method)라고 부릅니다.    

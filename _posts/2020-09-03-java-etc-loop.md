@@ -1,9 +1,11 @@
 ---
 title: 자바 반복문 3, 기타
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- loop
+- do while
 ---
 
 자바에는 문법은 존재하지만 활용빈도가 적은 반복구문들이 있습니다.

@@ -1,9 +1,10 @@
 ---
 title: 간단한 자바 계산기
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- static void main
 ---
 
 제목은 간단한 자바 계산기이지만, 처음 자바를 접하는 분들에게는 매우 어려울 수 있는 예제입니다.

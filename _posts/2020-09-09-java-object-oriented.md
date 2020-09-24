@@ -1,9 +1,11 @@
 ---
 title: 자바 객체지향, wrap-up
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- object
+- object oriented
 ---
 
 메소드, 클래스, 패키지, 접근제어자로 이어지는 이 모든 것의 기반에는 Object Oriented라는 자바의 세계관이 깔려있습니다.    

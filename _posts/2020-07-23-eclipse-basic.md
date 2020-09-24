@@ -1,12 +1,9 @@
 ---
 title: 이클립스 용어설명
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
 - eclipse
-toc: true
-toc_sticky: true
 ---
 
 이클립스는 자바 개발자들이 가장 애용하는 개발툴입니다.

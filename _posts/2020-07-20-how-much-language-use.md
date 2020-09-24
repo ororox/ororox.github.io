@@ -4,9 +4,7 @@ categories:
 - Journal
 tags:
 - backend
-- journal
-toc: true
-toc_sticky: true
+- programming language
 ---
 
 저는 SI(System Integration)업체에서 주로 백엔드(Backend) 개발을 하고 있습니다.

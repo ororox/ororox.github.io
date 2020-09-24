@@ -3,7 +3,6 @@ title: 4차 산업혁명의 버블
 categories:
 - Journal
 tags:
-- journal
 - 4th revolution
 - industry 4.0
 ---

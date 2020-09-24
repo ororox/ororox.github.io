@@ -1,9 +1,10 @@
 ---
 title: 자바 실행 클래스
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- static void main
 ---
 
 자바코드 실행을 **반드시** 아래와 같은 코드가 필요합니다. 

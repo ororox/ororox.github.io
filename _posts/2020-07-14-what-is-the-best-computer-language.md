@@ -3,10 +3,7 @@ title: 프로그램 언어, 어느 것을 선택해야 할까?
 categories:
 - Journal
 tags:
-- computer lanaguage
-- journal
-toc: true
-toc_sticky: true
+- programming lanaguage
 ---
 
 **세상에는 정말 많은 프로그램 언어들이 있습니다**.   

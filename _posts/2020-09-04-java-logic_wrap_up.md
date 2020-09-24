@@ -1,9 +1,10 @@
 ---
 title: 자바 로직, wrap-up
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- sequence diagram
 ---
 
 지금까지 배운 것에 대해서 복습하는 시간을 한 번 가져보겠습니다.

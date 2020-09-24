@@ -1,9 +1,11 @@
 ---
 title: 자바 반복문 1, while
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- loop
+- while
 ---
 
 while 반복문은 의외로 자바에서 많이 쓰지 않는 반복문입니다.   

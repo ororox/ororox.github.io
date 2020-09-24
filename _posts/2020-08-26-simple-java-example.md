@@ -1,9 +1,10 @@
 ---
 title: 간단한 덧셈 예제
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- static void main
 ---
 
 자바 실행 클래스에 대한 자세한 설명은 나중에 하기로 하고, 간단한 프로그램을 먼저 만들어 봅시다.

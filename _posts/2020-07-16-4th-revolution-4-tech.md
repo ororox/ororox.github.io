@@ -3,14 +3,11 @@ title: 4차 산업혁명의 4가지 핵심기술
 categories:
 - Journal
 tags:
-- journal
 - 4th revolution
 - IoT
 - Big Data
 - AI
 - Cloud
-toc: true
-toc_sticky: true
 ---
 
 **4차 산업혁명**에는 적어도 **4가지 핵심기술**이 필요합니다.

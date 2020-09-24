@@ -1,9 +1,11 @@
 ---
 title: 자바 조건문 1, if 조건문
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- static void main
+- if
 ---
 
 if를 이용한 조건문은 단지 자바에서만 쓰이는 것이 아니라, 거의 모든 프로그래밍 언어에서 사용하는 가장 중요한 조건문입니다.   

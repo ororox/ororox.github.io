@@ -1,9 +1,10 @@
 ---
 title: 자바 조건문 2, if...else 조건문
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- if else
 ---
 
 두 가지 조건에 따른 분기가 필요한 경우에는 if... else 조건문   

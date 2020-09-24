@@ -6,8 +6,6 @@ tags:
 - java
 - jdk
 - eclipse
-toc: true
-toc_sticky: true
 ---
 
 **Java-training.zip** 파일은 자바 개발에 필요한 도구를 한 곳에 모아서 **압축파일**로 만든 것입니다.    

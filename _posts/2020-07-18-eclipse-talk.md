@@ -3,7 +3,6 @@ title: 이클립스, 개발자의 워드프로세서
 categories:
 - Journal
 tags:
-- journal
 - eclipse
 ---
 

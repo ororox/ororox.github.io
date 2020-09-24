@@ -1,9 +1,11 @@
 ---
 title: 자바 패키지, package
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- code convention
+- package
 ---
 
 패키지는 클래스의 기능이나 업무 영역에 따라 분류하여 묶어 놓은 말 그대로 패키지(package) 입니다.   

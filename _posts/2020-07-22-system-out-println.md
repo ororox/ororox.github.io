@@ -1,9 +1,11 @@
 ---
 title: 자바 표준 출력
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- static void main
+- System.out.println
 ---
 
 프로그램을 접하는 가장 빠른 길은 화면에 뭔가를 그려보는 (출력하는) 것입니다.   
