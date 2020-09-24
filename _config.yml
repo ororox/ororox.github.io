@@ -29,7 +29,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 120
 comments:
-  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -39,9 +39,9 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    repository           : "ororox/blog-comments"
-    theme                : "default" # "github-light" (default), "github-dark"
-    issue_term           : "default" # "pathname" (default)
+    repository           : # "ororox/blog-comments"
+    theme                : # "default" # "github-light" (default), "github-dark"
+    issue_term           : # "default" # "pathname" (default)
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -272,7 +272,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: #true
-      comments: true
+      comments: #true
       share: true
       related: true
       toc: true
