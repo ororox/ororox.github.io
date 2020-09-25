@@ -47,11 +47,13 @@ layout: default
 				        {% include GoogleAdSenseSidbar.html %}
 				      {% endif %}
 				    </nav>
+				    <br/>
           </aside>
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
 
+				<br/>
 				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<ins class="adsbygoogle"
 				     style="display:block"
@@ -62,6 +64,7 @@ layout: default
 				<script>
 				     (adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
+				<br/>
 
       </section>
 
