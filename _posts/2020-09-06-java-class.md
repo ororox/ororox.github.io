@@ -21,7 +21,7 @@ tags:
 
 Object 자체는 프로그램 용어라기 보다는 다소 철학적인 의미를 가지고 있습니다. Object를 이해하기 위해서는 서양식 사고를 해야 합니다. 동양의 사고체계에서는 모든 만물이 서로 연관되어 있고, 물체간 경계가 다소 모호하지만, 서양의 사고에서는 모든 만물(사물)은 경계가 뚜렷하고, 하나씩 구분, 분류할 수 있다는 사고를 합니다. 따라서 "Object = 세상만물" 또는 "Object = 사물"이라고 봐도 무방합니다.   
 
-![레고](https://lh3.googleusercontent.com/proxy/WHHf_ob6xsKw20fQXAyrinh1uN7BL5OOkX7iptXgt8_fZe5eKhL8KgAnJxs5AE4fvT54AOFdbIPwYvrCCmJ5pVwBUNFWFk5puId_cfJ5gmoO2OItl-gmk8fsspnckUCGZ6RrRGTmTNFgPRdh66DE)
+![레고](https://mblogthumb-phinf.pstatic.net/MjAxODA3MjNfMTMy/MDAxNTMyMzE4NzY3MjQx.SIhCKiAwh6L7ElXKxLUVx0rSp06guaGhEr5KMs7bW3Qg.8jSVhnMLx9kB5Z_10L4vJSceMzmPIVN1mf6AhdyHsiMg.JPEG.x2wjeiw/xl_29189294-lego-brick-piles-resize.jpg?type=w800)
 
 이러한 세계관을 프로그램 세계로 끌어들인 것이 바로 Object Oriented 관점입니다. 즉, 프로그램을 단지 순차적인 로직의 흐름으로만 보지 않고, 여러 개의 물체로 나누어서 조합하고, 연계하자는 개념입니다. 이런 개념은 마치 레고를 조립하는 것처럼 프로그램을 만들자는 의미와도 같습니다.   
 
