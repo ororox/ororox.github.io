@@ -1,9 +1,11 @@
 ---
 title: 클래스 다이어그램, Class Diagram
 categories:
-- Java Training
+- Java Beginner Course
 tags:
-- 자바연습
+- java
+- class
+- diagram
 ---
 
 클래스 다이어그램은 주로 UML(Unified Modeling Language)이라는 형태로 그립니다.
