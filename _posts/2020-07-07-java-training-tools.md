@@ -152,3 +152,6 @@ openFile
 이후에 이클립스 "바로가기" 아이콘을 배치하면 끝.
 
 "D:\ " 드라이드로 옮겨서 실행하려면, 위에서 설정한 파일을 참고해서 D:\로 이동가능 합니다.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9U5_Phuk0g0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
