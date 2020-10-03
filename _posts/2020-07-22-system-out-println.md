@@ -56,4 +56,6 @@ printf("%d / %d = %.2f 입니다.", 36, 7, (float)36/7);
 
 ### 강의동영상(유튜브)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yijfbn5SzwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+아래 그림을 클릭하면, 유튜브로 이동합니다.
+
+[![출력해 봅시ㅏ](https://i9.ytimg.com/vi/Yijfbn5SzwA/mq1.jpg?sqp=CLSF4vsF&rs=AOn4CLCxbJxta2X8EKMQhwn6IBhcq2eGdQ)](https://youtu.be/Yijfbn5SzwA)

@@ -157,4 +157,6 @@ openFile
 
 ### 강의동영상(유튜브)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9U5_Phuk0g0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+아래 그림을 클릭하면, 유튜브로 이동합니다.
+
+[![Java training tools](https://i9.ytimg.com/vi/9U5_Phuk0g0/mq1.jpg?sqp=CIiD4vsF&rs=AOn4CLA-yDWcBk9jgPKFHk9SqXoGXOUALw)](https://youtu.be/9U5_Phuk0g0)

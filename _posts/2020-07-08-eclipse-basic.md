@@ -40,4 +40,6 @@ Perspective는 맨 우측 상단의 작은 아이콘을 선택하거나, 메뉴�
 
 ### 강의동영상(유튜브)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5TLk3N9SkOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+아래 그림을 클릭하면, 유튜브로 이동합니다.
+
+[![이클립스 용어설명](https://i9.ytimg.com/vi_webp/5TLk3N9SkOo/mqdefault.webp?sqp=CIiD4vsF&rs=AOn4CLCS04pyCExPmeNptIkQOX2m5NwIjw)](https://youtu.be/5TLk3N9SkOo)
