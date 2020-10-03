@@ -7,7 +7,8 @@ tags:
 - static void main
 ---
 
-자바 실행 클래스에 대한 자세한 설명은 나중에 하기로 하고, 간단한 프로그램을 먼저 만들어 봅시다.
+앞에서 봤던 [자바 실행 클래스](https://ororox.github.io/java%20beginner%20course/JavaRunner/){:target="_blank"} 안에서 간단한 프로그램을 만들어 봅시다.
+
 
 ### 소스코드
 
