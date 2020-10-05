@@ -1,2 +1,2 @@
 # ororox.github.io
-Ororox TV Official Blog
+Ororox TV Tech Blog
