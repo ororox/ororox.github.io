@@ -58,4 +58,4 @@ printf("%d / %d = %.2f 입니다.", 36, 7, (float)36/7);
 
 아래 그림을 클릭하면, 유튜브로 이동합니다.
 
-[![출력해 봅시ㅏ](https://i9.ytimg.com/vi/Yijfbn5SzwA/mq1.jpg?sqp=CKi27PsF&rs=AOn4CLBJTG8zoBaRNkhrF4L--vpO0MNr3g)](https://youtu.be/Yijfbn5SzwA)
+[![출력해 봅시다!]({{ 'assets/images/post/3.png' | relative_url }})](https://youtu.be/Yijfbn5SzwA){:target="_blank"}

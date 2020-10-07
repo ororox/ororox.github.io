@@ -42,4 +42,4 @@ Perspective는 맨 우측 상단의 작은 아이콘을 선택하거나, 메뉴�
 
 아래 그림을 클릭하면, 유튜브로 이동합니다.
 
-[![이클립스 용어설명](https://i9.ytimg.com/vi/5TLk3N9SkOo/mq1.jpg?sqp=CKi27PsF&rs=AOn4CLA2GdbhrIvTVdiucK0k-o63VC-N9Q)](https://youtu.be/5TLk3N9SkOo)
+[![이클립스 용어설명]({{ 'assets/images/post/2.png' | relative_url }})](https://youtu.be/5TLk3N9SkOo){:target="_blank"}

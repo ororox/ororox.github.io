@@ -159,4 +159,4 @@ openFile
 
 아래 그림을 클릭하면, 유튜브로 이동합니다.
 
-[![Java training tools](https://i9.ytimg.com/vi/9U5_Phuk0g0/mq1.jpg)](https://youtu.be/9U5_Phuk0g0)
+[![Java training tools]({{ 'assets/images/post/1.png' | relative_url }})](https://youtu.be/9U5_Phuk0g0){:target="_blank"}
