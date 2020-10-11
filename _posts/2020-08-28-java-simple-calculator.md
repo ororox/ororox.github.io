@@ -68,8 +68,22 @@ public class JavaRunner {
 **연산부**는 내부에 숨겨진 코드이며, 실제로 계산 또는 로직을 수행하는 역할을 합니다.   
 **출력부**에서는 결과를 출력합니다. 대부분 웹 화면에서 표현되지만, 아직 우리는 화면을 그리는 단계는 아니므로, 콘솔창에 결과를 프린트 합니다.
 
+###  강의동영상(유튜브)
+
+아래 그림을 클릭하면, 유튜브로 이동합니다.
+
+[![간단한 계산기]({{ 'assets/images/post/9.png' | relative_url }})](https://youtu.be/Q-4Cd4XRz-Q){:target="_blank"}
+
+
 ### 문제 정답
 
 정답은 [여기](https://gist.github.com/ororox/d9acf4a4254a5dd65f0aca1b12fa9acb){:target="_blank"}에 있습니다.   
 처음하는 프로그래밍이므로 너무 고민하기 보다는 해답을 보고, 이해하는 것도 좋습니다.   
 실무에서 처음부터 무리한 코딩을 요구하는 경우는 없습니다. 대부분 다른 사람이 만든 코드를 이해하는 것에서 출발합니다. 그래서, 프로그래밍은 약간의 도재식 수업이 필요합니다.
+
+
+###  해답 강의동영상(유튜브)
+
+아래 그림을 클릭하면, 유튜브로 이동합니다.
+
+[![간단한 계산기 해답]({{ 'assets/images/post/10.png' | relative_url }})](https://youtu.be/bAHnoIOLUKI){:target="_blank"}
