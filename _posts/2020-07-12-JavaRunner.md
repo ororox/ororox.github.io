@@ -38,7 +38,3 @@ public class JavaRunner {
 코멘트는 "주석"이라고도 하는데, 일본식 한자어를 음차한 표현입니다.
 
 **Java Runner**라는 클래스 이름은 JavaTest, JavaRun 등 편리한 이름 아무거나 적어도 상관없습니다. 단, 자바 언어에서 이미 사용하고 있는 예약어만 아니면 됩니다.
-
-### 강의동영상(유튜브)
-
-[자바 표준 출력](https://ororox.github.io/java%20beginner%20course/system-out-println) 포스팅 초반에 함께 설명되어 있습니다.

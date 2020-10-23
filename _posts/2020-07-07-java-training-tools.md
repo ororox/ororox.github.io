@@ -154,9 +154,3 @@ openFile
 이후에 이클립스 "바로가기" 아이콘을 배치하면 끝.
 
 "D:\ " 드라이드로 옮겨서 실행하려면, 위에서 설정한 파일을 참고해서 D:\로 이동가능 합니다.
-
-### 강의동영상(유튜브)
-
-아래 그림을 클릭하면, 유튜브로 이동합니다.
-
-[![Java training tools]({{ 'assets/images/post/1.png' | relative_url }})](https://youtu.be/9U5_Phuk0g0){:target="_blank"}

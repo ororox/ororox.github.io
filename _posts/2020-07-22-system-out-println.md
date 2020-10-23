@@ -53,9 +53,3 @@ printf("%d / %d = %.2f 입니다.", 36, 7, (float)36/7);
 여러 가지 출력 메소드가 있지만, 실무에서는 거의 println 위주로 사용합니다. 가끔, 아주 가끔 print 혹은 거의 드물게 printf를 사용하는 경우가 있지만, 사실 System.out.println 으로 화면을 출력하는 일이 거의 없기 때문에 상업적인 웹 프로그램에서는 사용하는 경우가 드뭅니다.   
 
 자바 강의에서는 아직 웹이든 앱이든 화면이 없기 때문에 println으로 출력 결과를 확인하는 용도로 많이 사용합니다.
-
-### 강의동영상(유튜브)
-
-아래 그림을 클릭하면, 유튜브로 이동합니다.
-
-[![출력해 봅시다!]({{ 'assets/images/post/3.png' | relative_url }})](https://youtu.be/Yijfbn5SzwA){:target="_blank"}

@@ -73,9 +73,3 @@ bit 가 3개 있으면 8개의 정보를 표현할 수 있습니다.
 String 타입의 변수는 기본 자료형 (Primitive data type)은 아니지만, 기본 자료형 만큼이나 널리 기본적으로 사용하는 타입 입니다.
 
 char 타입은 글자 1글자를 저장하는 반면, String (반드시 대문자로 시작) 타입은 문자열을 저장하는 변수이며, **거의 기본 자료형**으로 사용됩니다.
-
-###  강의동영상(유튜브)
-
-아래 그림을 클릭하면, 유튜브로 이동합니다.
-
-[![자바변수와 데이터타입]({{ 'assets/images/post/8.png' | relative_url }})](https://youtu.be/apMxjLPhCZg){:target="_blank"}

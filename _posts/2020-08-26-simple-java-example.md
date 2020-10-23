@@ -87,15 +87,3 @@ System.out.println(c);
 ```
 
 를 이용하여 c에 들어있는 값을 출력합니다.
-
-
-###  강의동영상(유튜브)
-
-아래 그림을 클릭하면, 유튜브로 이동합니다.
-
-[![간단한 덧셈 예제]({{ 'assets/images/post/6.png' | relative_url }})](https://youtu.be/ABSlhPmjibI){:target="_blank"}
-
-
-추가로 컴퓨터의 역사와 관련된 간단한 버전의 강의를 덧붙입니다.
-
-[![컴퓨터의 역사 간단버전]({{ 'assets/images/post/7.png' | relative_url }})](https://youtu.be/_rFj1zMLpAI){:target="_blank"}
